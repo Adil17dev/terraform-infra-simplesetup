@@ -1,2 +1,2 @@
 # terraform_projects
-The files uploaded here are the files created by  on sample terraform projects to learn terraform
+The files uploaded here are tf files to setup a simple AWS Ubuntu instance
